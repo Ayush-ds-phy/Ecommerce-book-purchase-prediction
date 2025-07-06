@@ -12,7 +12,7 @@ import numpy as np
 import joblib
 
 # Load the trained model
-model = joblib.load("purchase_predictor.joblib")
+model = joblib.load("purchase_predictor_.joblib")
 
 # Set up the app
 st.set_page_config(page_title="Book Purchase Predictor", page_icon="📚")
