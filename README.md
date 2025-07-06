@@ -1,5 +1,6 @@
 You can run the app locally: https://ecommerce-book-purchase-prediction-w4nn28jj7kpi8kckz9j7kk.streamlit.app/
 ![App Screenshot](thumbnail.png)
+
 📚 E-commerce Book Purchase Prediction
 
 This is a simple, realistic data science project that simulates user behavior in an online bookstore.  
