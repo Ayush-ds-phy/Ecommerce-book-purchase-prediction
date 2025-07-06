@@ -1,6 +1,6 @@
 You can run the app locally: https://ecommerce-book-purchase-prediction-w4nn28jj7kpi8kckz9j7kk.streamlit.app/
 
-App Visual: ! [App Screenshot](thumbnail.png)
+App Visual: [App Screenshot](thumbnail.png)
 
 📚 E-commerce Book Purchase Prediction
 
